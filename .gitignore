@@ -1,0 +1,4 @@
+# Ignore node specific items
+
+node_modules
+npm-debug.log
